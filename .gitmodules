@@ -1,0 +1,3 @@
+[submodule "test-files/mediaelement-files"]
+	path = test-files/mediaelement-files
+	url = https://github.com/mediaelement/mediaelement-files.git
