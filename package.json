@@ -20,7 +20,7 @@
     "url": "https://github.com/ltetzlaff/video-to-images.git"
   },
   "author": "ltetzlaff",
-  "license": "All rights reserved.",
+  "license": "GPL-3.0",
   "devDependencies": {
     "@types/ffmpeg-static": "^2.0.0",
     "@types/node": "^10.5.1",
