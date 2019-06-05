@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/ffmpeg-static": "^2.0.0",
     "@types/node": "^10.5.1",
-    "tslint-lt": "^1.6.4",
+    "tslint-lt": "^1.9.0",
     "typescript": "^2.9.2"
   },
   "dependencies": {
